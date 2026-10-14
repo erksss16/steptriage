@@ -1,4 +1,4 @@
-# StepTriage · 教程排错实验室
+# StepTriage 
 
 让教程中的每一步都有检查依据，让失败之后有路可走。
 支持 Markdown 教程、结果检查、故障分支和复现报告。
@@ -29,7 +29,7 @@ npm run preview
 
 浏览器端到端测试默认使用已安装的 Microsoft Edge；可在 `playwright.config.ts` 中修改浏览器通道。
 
-## 演示流程
+## 流程
 
 1. 在教程库开始 Python Web 服务教程，填写环境。
 2. 提交 `Python 3.12.4`，完成人工环境确认。
